@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mac/AutoStartManagerAndroid/android/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/mac/.android/build-cache/c9602ce6ad112973dade6027783f541d25b745bf/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/mac/AutoStartManagerAndroid/android/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/mac/.android/build-cache/c9602ce6ad112973dade6027783f541d25b745bf/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

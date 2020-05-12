@@ -1,0 +1,43 @@
+{
+  "_from": "react-native-auto-start-manager-android@^1.0.2",
+  "_id": "react-native-auto-start-manager-android@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-Zk3EQzvIuvf1tcFhhyhdlOvUYaoPu6YNHhwh9e+UbKO4s4XBgYB9BvfHpx0y6QVyrB41J6Z4N/QzktgaxHDuZA==",
+  "_location": "/react-native-auto-start-manager-android",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "react-native-auto-start-manager-android@^1.0.2",
+    "name": "react-native-auto-start-manager-android",
+    "escapedName": "react-native-auto-start-manager-android",
+    "rawSpec": "^1.0.2",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.2"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-auto-start-manager-android/-/react-native-auto-start-manager-android-1.0.2.tgz",
+  "_shasum": "7216782836d7544477fd721f97d06fa08f626d23",
+  "_spec": "react-native-auto-start-manager-android@^1.0.2",
+  "_where": "/home/a/ws/a",
+  "author": "",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "## Getting started",
+  "keywords": [
+    "react-native"
+  ],
+  "license": "",
+  "main": "index.js",
+  "name": "react-native-auto-start-manager-android",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.2"
+}
